@@ -4,7 +4,7 @@ This project is focused on practicing data cleaning and visualization techniques
 <h2>Key Features</h2>
 Data Cleaning: Efficiently processed and cleaned raw data to make it suitable for analysis.
 Data Visualization: Created insightful visualizations using Python libraries like Matplotlib and Seaborn.
-<h2>Basic Charts</h2>
+<h2>Visualizations</h2>
 <img src="https://github.com/user-attachments/assets/12b1948a-15e9-494e-9710-64579e86c5d5">
 <img src="https://github.com/user-attachments/assets/a6a727b9-3e32-4fac-9b6b-69cbf1d17919">
 <img src="https://github.com/user-attachments/assets/43b4d089-d530-4be5-b029-15a6e2faf4fa">
